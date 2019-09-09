@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * Реализуйте свой Iterator для обхода списка слов в обратном порядке.
+ * Реализуйте свой Iterator для обхода списка слов в обратном порядке.wwww
  */
 class Counter5ReverseIterator {
 
