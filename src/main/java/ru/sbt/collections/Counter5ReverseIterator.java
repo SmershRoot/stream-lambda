@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
  * Реализуйте свой Iterator для обхода списка слов в обратном порядке.wwww
  */
 class Counter5ReverseIterator {
-
+/**/
     static long notStream(String[] word) {
         Long t1 = System.nanoTime();
         List<String> words = Arrays.asList( word );
